@@ -29,5 +29,5 @@ To deploy this project run
 
 ## Screenshots
 *Simulation*</br>
-![Simulation](https://github.com/manosmin/ceid-oop/screenshots/ss1.png)
+![Simulation](https://github.com/manosmin/ceid-oop/blob/master/screenshots/ss1.png)
 
