@@ -1,7 +1,7 @@
 
 # Object Oriented Programming Project @CEID
 
-A console-based simulation of a jungle ecosystem using Java's object-oriented programming features. The simulation will involve various types of flora and fauna within the jungle, and students will model these entities as objects with defined behaviors and characteristics
+A console-based simulation of a jungle ecosystem using Java's object-oriented programming features. The simulation involves various types of flora and fauna within the jungle, and are modeled as objects with defined behaviors and characteristics.
 
 
 ## Features
