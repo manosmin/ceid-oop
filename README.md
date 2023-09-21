@@ -19,7 +19,7 @@ A console-based simulation of a jungle ecosystem using Java's object-oriented pr
 
 ## Deployment
 
-To deploy this project run
+To deploy this project run in /src
 
 ```bash
   package.bluej 
